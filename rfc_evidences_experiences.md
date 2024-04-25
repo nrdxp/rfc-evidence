@@ -14,15 +14,15 @@ https://save-nix-together.org/
 
 The current moderation team heavily supports this latest move. As we can clearly see here, contributor `Hexa`, himself a member of the Nix community moderation team at the time of this writing, is promoting the message to the public by posting it on lobste.rs:
 
-https://lobste.rs/s/0qvtim/open_letter_nixos_foundation
+https://lobste.rs/s/0qvtim/open_letter_nixos_foundation [_mirror_](https://archive.is/GWkKA)
 
 **Please note again that `Irene Knapp`, the main author of the failed RFC 98, is part of the moderation team on lobste.rs** at the time of this writing: https://lobste.rs/~Irene
 
 `Eelco Dolstra` is being depicted as an irresponsible project leader who must be ousted for "the community" to take over the project. But who exactly is "the community," and who speaks for them? In a recent discussion regarding the finding on GitHub, a user addressed what he perceived as "a de-facto power grab" by the moderation team concerning deciding sponsorship policy for Nix-related events:
 
-[https://github.com/NixOS/foundation/pull/128#issuecomment-2035356976](https://github.com/NixOS/foundation/pull/128#issuecomment-2035356976)
+https://github.com/NixOS/foundation/pull/128#issuecomment-2035356976 [_screen_](./assets/issuecomment-2035356976.png)
 
-We are now witnessing a much larger de facto power grab, all out in the open, and again related to moderation. We are deeply concerned by this unabashed attempt to transform the existing open community into an ideological playground for an extremely intolerant far-left identitarian ideology. **The moderation team is central to all of this, as it is supposed to enact and protect their intolerance.** This is endangering all moderate and decent people who want to share in the benefits that the Nix ecosystem has to offer.
+We are now witnessing a much larger de facto power grab, all out in the open, and again related to moderation. We are deeply concerned by this unabashed attempt to transform the existing open community into an ideological playground for an extremely intolerant far-left identitarian ideology. **The moderation team is central to all of this, as it seems to enact and protect their intolerance.** This is endangering all moderate and decent people who want to share in the benefits that the Nix ecosystem has to offer.
 
 The authors of the anonymous document are clearly aware of the nature of their own attempt. At the end of a section of their document, shrouded in the language of "empathy," they ask for preemptive censorship of any criticisms:
 
@@ -32,18 +32,20 @@ Nevermind the hypocrisy of accusing others of brigading while practicing the sam
 
 Please take a moment to appreciate the surrealist absurdity of all this:
 
+
+
 1) In the recent discussion on sponsorship policies, someone calls out an ongoing power grab on GitHub
-   [https://github.com/NixOS/foundation/pull/128#issuecomment-2035356976](https://github.com/NixOS/foundation/pull/128#issuecomment-2035356976)
+   https://github.com/NixOS/foundation/pull/128#issuecomment-2035356976 [_screen_](./assets/issuecomment-2035356976.png)
 2) NixOS foundation board observer `RaitoBezarius` denying on GitHub that there is a power grab, speaking of "power grab fantasies."
-   https://github.com/NixOS/foundation/pull/128#issuecomment-2037592426
+   https://github.com/NixOS/foundation/pull/128#issuecomment-2037592426 [_screen_](./assets/issuecomment-2037592426.png)
 3) Days later, the same `RaitoBezarius` boosting a post on Mastodon where someone else says: all the fascists will get kicked out
-   https://hachyderm.io/@leftpaddotpy/112248186696362113
+   https://hachyderm.io/@leftpaddotpy/112248186696362113 [_screen_](./assets/112248186696362113.png)
 4) The author of this post leaning into the myth of fascism for exclusionary purposes counts on moderation team member `piegames` to enact such left-leaning identitarian policies inside the Nix community: "**please talk to piegames, they're very involved in making this happen and it will help our future advocacy for better board composition**" (Targeting the foundation board members, the most important of which is `Eelco Dolstra`)
    https://hachyderm.io/@leftpaddotpy/112248495631909404
 5) The appearance of an open letter calling for the ousting and expropriation of the project founder from his life's work, saying that "Eelco should resign from all of his formal roles in the project and take at least a 6 months break from involvement at all, **to allow the community ownership of the project to get on its feet in practice.**"
    https://save-nix-together.org/
 6) The moderation team member `Hexa` posts the letter publicly, while the authors of the letter want to repress criticism of their power grab preemptively because it might increase "moderation load."
-   https://lobste.rs/s/0qvtim/open_letter_nixos_foundation
+   https://lobste.rs/s/0qvtim/open_letter_nixos_foundation [_mirror_](https://archive.is/GWkKA)
 7) Most likely we are going to see complaints about concern trolls and similar things in the future, when people start to make critical remarks, with people on certain Mastodon instances complaining about fascists and what not. All the while telling others how tired they are and how they want their time to be respected.
 
 This cycle of the theater of the absurd needs to end. The friends of the infernal identitarian game need to be tamed. **Actual moderation - the virtue of moderation - needs to replace identitarian division.**
@@ -76,7 +78,7 @@ In a recent debate initiated by contributor `Infinisil`, moderator `rhendric` cl
 
 > [...] there is a CoC that reasonably describes what we're aiming for in our moderation processes. [...] **if one of the bits of transparency you want is citing which part of the CoC got violated when we take action—we don't operate like that.** We take the least potent moderation action needed to uphold the NixOS Foundation statement that RFC 102 tasks us with implementing, and we are guided by each other when we do that.
 > 
->(Mon, Mar 11, 2024, 1:24 CET, Source: https://matrix.to/#/!uzGGsQXWXsuwIqJImY:nixos.org/$syzY0wQ9wM7c1usw-XxrmZpB5xjzNQlp7hy6rFCaAKM?via=nixos.org&via=matrix.org&via=nixos.dev)
+>(Mon, Mar 11, 2024, 1:24 CET, Source: https://matrix.to/#/!uzGGsQXWXsuwIqJImY:nixos.org/$syzY0wQ9wM7c1usw-XxrmZpB5xjzNQlp7hy6rFCaAKM?via=nixos.org&via=matrix.org&via=nixos.dev [_screen_](./assets/syzY0wQ9wM7c1usw-XxrmZpB5xjzNQlp7hy6rFCaAKM.png))
 
 ***Surprisingly then, the Code of Conduct appears to stand in no discernible relation to the actual decisions being made. The decisions aren't based on the prescriptions of the Code in any way. Which raises the question: Why does the Code exist in the first place? And how can it "reasonably describe" anything at this point?*** 
 
@@ -99,13 +101,13 @@ In the aftermath of Srid's ban in November 2023, a certain number of people publ
 In this context, long-standing contributor `Shea Levy` asked contributor and moderation team lead `Ryan Mullgian` on GitHub whether Srid's ban was due to certain political views he had linked in his Discourse profile:
 
 > @NixOS/moderation: @srid claims that this ban was due to a link to https://srid.ca/unwoke in his Discourse profile. Is that correct?
-> https://github.com/NixOS/moderation/commit/e9d67b7efa03e6e9bc0bf2d03c6344d60c103395#commitcomment-132517786
+> https://github.com/NixOS/moderation/commit/e9d67b7efa03e6e9bc0bf2d03c6344d60c103395#commitcomment-132517786 [_screen_](./assets/commitcomment-132517786.png)
 
 To which `Ryan Mulligan` provided the following answer:
 
 > On multiple occasions, Srid derailed discussions into a general political/philosophical debate. Several posts have been hidden/deleted because they also contained inflammatory speech. Several community members have reported their discomfort with Srid. In that context, his Discourse profile was seen as yet another provocation. In response to this, Srid was given a warning. We asked him to stop being so confrontational, to remove the link to that page on his profile, and to not link to it again in the future, among other things. He partially complied but refused to change or remove that link, then later continued to escalate by posting a public poll on Discourse about this moderation question. This poll is exactly the behavior we are trying to stop. We will not let our community be turned into a general debate club or a circus. The suspension was precipitated from him posting the poll and is the result of considering all this.
 > 
-> https://github.com/NixOS/moderation/commit/e9d67b7efa03e6e9bc0bf2d03c6344d60c103395#commitcomment-132624102
+> https://github.com/NixOS/moderation/commit/e9d67b7efa03e6e9bc0bf2d03c6344d60c103395#commitcomment-132624102 [_screen_](./assets/commitcomment-132624102.png)
 
 Notice how this answer provides no concrete reasons for Srid's ban. It deals only in generalities that are unverifiable. Nobody can look up the multiple occasions of Srid derailing discussions, no one can see the hidden or deleted posts to judge whether they were inflammatory or harmless, and nobody knows whether the discomfort that community members might have had was due to Srid's actual behavior or rather due to their own adherence to aggressive identitarian ideologies that construed Srid as an ideological enemy.
 
@@ -113,7 +115,7 @@ What everyone can verify, however, is that Srid is deeply committed to being *as
 
 This evidently insufficient response led contributor `David Arnold (blaggacao)` - who to our dismay has also since been banned by the moderation team, a team he helped create in RFC 102 - to open **a thread on moderation accountability.**[^2] This thread, because of the controversial nature of the decision, got somewhat more emotional with several apparent adherents of left-leaning identitarian ideologies becoming aggressive. The moderation team decided to lock it down, delist it from Discourse and later even heavily censor it, removing 13 of the original posts *even after it was unlisted and hence hidden from public search results.* However, the original version has been preserved in this particular case.[^3]
 
-[^2]: The original thread is to be found here: https://discourse.nixos.org/t/moderation-team-accountability-issues/35482
+[^2]: The original thread is to be found here: https://discourse.nixos.org/t/moderation-team-accountability-issues/35482 [_mirror_](https://archive.is/ynqiM)
 
 [^3]: This preserved version which was provided to Srid by an anonymous source can be found here: https://srid.ca/nixos-mod/accountability-thread
 
@@ -122,7 +124,7 @@ At the very end of that thread, in a message that still stands at the time of th
 > If you find that your private concerns aren’t handled, then you could consider **making some polite public post with a concretely argued position rater than some vague concern.**
 > 
 > Moderator Ryan Mulligan
-> https://discourse.nixos.org/t/moderation-team-accountability-issues/35482/71
+> https://discourse.nixos.org/t/moderation-team-accountability-issues/35482/71 [_mirror_](https://archive.is/ynqiM)
 
 **Abstract declamations unto thee! But only concrete reasons unto me!**
 
@@ -147,14 +149,14 @@ This clarification is important. One of the more serious attempts in the directi
 > To help avoid controversy in the future, I would still like to see [https://github.com/NixOS/.github/pull/16](https://github.com/NixOS/.github/pull/16) or something like that added to the CoC. Just make the expectations clear that those things are better tackled outside Nix Platforms.
 > 
 > Contributor Jon Ringer, Tue, Mar 12, 2024, NixOS Governance Room on Matrix
-> https://matrix.to/#/!VyoUhyWvlhSpFWWxHL:matrix.org/$W6QrMhOJbtwjxL3-yquzfuxchLJHUWqFzfjeCh9fc0U?via=nixos.org&via=matrix.org&via=nixos.dev
+> https://matrix.to/#/!VyoUhyWvlhSpFWWxHL:matrix.org/$W6QrMhOJbtwjxL3-yquzfuxchLJHUWqFzfjeCh9fc0U?via=nixos.org&via=matrix.org&via=nixos.dev [_screen_](./assets/FC6KAUDoSdZXyBiMX39ShZlxkGgkh1u1tDLEvDQqkDs.png)
 
 The moderation team did not follow up on this proposal to restrict political speech more generally in any positive way but was rather dismissive of it. In the context of this PR, the following explanation was given by the moderation team:
 
 > [...] we are probably not going to impose a ban on political activism. **The tone of the activism isn't necessarily the discriminating factor either.** We won't allow activism that is counter to our mission of ‘providing an intentionally welcoming and safe environment where all feel valued and cared for’.
 > 
 > Moderator rhendric, Tue, Mar 12, 2024, NixOS Governance Room on Matrix
-> https://matrix.to/#/!VyoUhyWvlhSpFWWxHL:matrix.org/$FC6KAUDoSdZXyBiMX39ShZlxkGgkh1u1tDLEvDQqkDs?via=nixos.org&via=matrix.org&via=nixos.dev
+> https://matrix.to/#/!VyoUhyWvlhSpFWWxHL:matrix.org/$FC6KAUDoSdZXyBiMX39ShZlxkGgkh1u1tDLEvDQqkDs?via=nixos.org&via=matrix.org&via=nixos.dev [_screen_](./assets/FC6KAUDoSdZXyBiMX39ShZlxkGgkh1u1tDLEvDQqkDs.png)
 
 Notice that ***the tone of the activism is not a discriminating factor*** for the moderation team. This might already be an indication that ***certain types of activism are allowed to become uncivil in the community***, and in our estimation, they are allowed to become uncivil to such an extent as to become verbally abusive of other community members and put significant emotional strain on them.
 
@@ -165,7 +167,7 @@ Over the course of the recent months, since the ban of `Srid` and the adoption o
 - **Defenders of the first Anduril sponsorship** at the Europeans NixCon 2023 who participated in the discussion on Discourse **have been termed "murder machine apologists"** by `J` in the NixOS foundation Matrix room, likening them linguistically to people who defend actual murder. We believe that such rhetoric is inappropriate in a professional setting.
   
   As we shall see, however, this is not an isolated incident. It is also worth noting that these defamed people were deemed "not, in fact, people who create a safe environment for marginalized folk", hence the attack was made in the context for an argument using the *myth of marginalization* against an imaginary enemy - normal community members mind you! - to be vilified.
-  https://matrix.to/#/!CJXQiUGqNPcFonEdME:nixos.org/$GNOHzZx-f_7Fkkgg4f4auQpTNa9tB4aa33oHQxzArwg?via=nixos.org&via=matrix.org&via=nixos.dev
+  https://matrix.to/#/!CJXQiUGqNPcFonEdME:nixos.org/$GNOHzZx-f_7Fkkgg4f4auQpTNa9tB4aa33oHQxzArwg?via=nixos.org&via=matrix.org&via=nixos.dev [_screen_](./assets/GNOHzZx-f_7Fkkgg4f4auQpTNa9tB4aa33oHQxzArwg.png)
   
 - In the already mentioned hidden thread on Discourse, opened by `David Arnold (blaggacao)`, `J` claimed an unidentified post of `Srid` was a "bigoted screed that is exactly the sort of thing written by people who - quite literally - intend to murder us marginalized folks, or wish for others to do so." Thereby likening `Srid` to people with - quite literal - homicidal intent against minorities. **This claim does establish a pattern: *Creating a rhetorical resemblance between an actual behavior with a really hideous behavior, apt to do harm against the public image of a contributor to the Nix community.***
   https://srid.ca/nixos-mod/accountability-thread 
@@ -173,7 +175,7 @@ Over the course of the recent months, since the ban of `Srid` and the adoption o
 - In late 2023 a long-standing contributor to nixpkgs was attacked verbally by J for his attempt to raise a critical question with respect to `J`'s behavior. `J` claimed that this critical attempt was tantamount to "clear-cut abuser behavior" and running "experiments on people's emotional state without their consent", in this case on J's emotional state. We should note that there is no evidence in our mind that these depictions given by `J` even come close to an accurate account of the situation. 
   
   Rather what is striking to us is that, just like in the cases above, `J` yet again likens other community members' behavior rhetorically to a particularly horrid kind of behavior, in this case to a scientist running unethical experiments on people against their will. Obviously no such thing ever happened. **However, this creates yet another instance of the aforementioned rhetorical pattern.** Needless to say there were no public statements against this behavior from the moderation team.
-  https://matrix.to/#/!VyoUhyWvlhSpFWWxHL:matrix.org/$Y-ndXmAfGUXPPfOD_YvOE59pj8gQzp1kI4tBdXQR13w?via=nixos.org&via=matrix.org&via=nixos.dev
+  https://matrix.to/#/!VyoUhyWvlhSpFWWxHL:matrix.org/$Y-ndXmAfGUXPPfOD_YvOE59pj8gQzp1kI4tBdXQR13w?via=nixos.org&via=matrix.org&via=nixos.dev [_screen_](./assets/Y-ndXmAfGUXPPfOD_YvOE59pj8gQzp1kI4tBdXQR13w.png)
   
 - To the moderation team `J` has claimed that there has been a streak of harassment going on for years, presumably against him and some people like him. We have found no indication of this being true. The claim appears to us to be overly dramatic and somewhat construed.
   
@@ -188,11 +190,11 @@ Once these questions were posted, the moderation team felt obliged to make an of
 > As a community, we’ve recently struggled to have conversations related to this idea without overheating. **I’m encouraged by J’s attitude** and approach here, and I would like to see this experiment succeed. Given the volatility of the subject, I’d like to ask everyone who might be interested in having J as a tutor to **remember periodically to reflect on your emotional temperature**, and to bias yourself toward taking some time to cool off if you need it. [...] **Respectful speech remains a basic expectation of NixOS spaces.**
 > 
 > Moderator rhendric's official statement
-> https://discourse.nixos.org/t/open-offer-politics-in-tech-sessions/40097/3
+> https://discourse.nixos.org/t/open-offer-politics-in-tech-sessions/40097/3 [_mirror_](https://archive.is/wip/JU8Tk)
 
 We find this statement to be highly disconcerting. Given the lack of respectfulness and civility we experienced coming from `J`, and the moderation team's evident awareness of this, who is the addressee of these demands? Is the respectfulness only an expectation raised against some, but not against others? Is civility a demand only held against a certain subsection of the community?
 
-If the moderation team does not wish to engage in "tone-policing," as some might say, we note that such tone-policing was no problem when moderator `Hexa` intervened against contributor `amjospeh` on GitHub, leading to `amjoseph` quitting the project over concerns with this approach to governance. His statement reads like this: "@amjoseph-nixpkgs **You need to tone done your commit messages** and start communicating with others, continued collaboration really isn't going to work any other way." https://github.com/NixOS/nixpkgs/pull/282220#issuecomment-1902634102
+If the moderation team does not wish to engage in "tone-policing," as some might say, we note that such tone-policing was no problem when moderator `Hexa` intervened against contributor `amjospeh` on GitHub, leading to `amjoseph` quitting the project over concerns with this approach to governance. His statement reads like this: "@amjoseph-nixpkgs **You need to tone done your commit messages** and start communicating with others, continued collaboration really isn't going to work any other way." https://github.com/NixOS/nixpkgs/pull/282220#issuecomment-1902634102 [_screen_](./assets/issuecomment-1902634102.png)
   
 Is tone-policing acceptable against highly productive contributors, but not against people giving political lessons to others with what appears to us to be a history of verbal aggressiveness?
   
@@ -256,7 +258,7 @@ Private communication with the moderation team was initiated in December after S
 
 > We'll continue communicating with Srid and there is opportunity for redemption if he's willing to participate constructively.
 >
-> https://github.com/NixOS/moderation/commit/e9d67b7efa03e6e9bc0bf2d03c6344d60c103395#commitcomment-132624102
+> https://github.com/NixOS/moderation/commit/e9d67b7efa03e6e9bc0bf2d03c6344d60c103395#commitcomment-132624102 [_screen_](./assets/commitcomment-132624102.png)
 
 So the moderation team was taken up on their promise, the communication between them and Srid was supposed to be in private, and accompanied by one of the two authors of this RFC. This was done to prevent any mutual escalation from happening yet again. As Ryan had claimed that Srid "derailed discussions" on "multiple occasions", it seemed important that no such escalation was to happen yet again.
 
