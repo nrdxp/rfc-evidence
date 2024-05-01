@@ -45,3 +45,17 @@ As a person who is actually in a marginalized group in real life, I've genuinely
 ```
 
 I genuinely appreciate the support and admire your willingness to buck against the trend. This comment is important for more than just that though. It shows that the overtly divisive language isn't only destructive, it is patently false. We, in fact, do have common ground, and we are not enemies. We are only made to look so, so that the endless _ad hominem_ can ensue and remain "justified". Seriously though, it is important to remember that we are individuals first, whatever group we may choose to affiliate ourselves with, and it is our individuality that gives us unique and valuable perspectives, not our group-think or slogans, those are a dime a dozen. Thanks again for sharing yours 🙏
+
+#### https://github.com/NixOS/rfcs/pull/175#discussion_r1581420190
+
+```
+There is no objective moderation. Moderation is always an exercise in value judgement.
+```
+
+Fair enough. Thanks for at least leaving some actual feedback on the policy itself. However, even if you believe that, I think we can arrive at a fairly simple and uncontroversial value for moderation, and that would be the words very definition in the context of conversation and debate. That is, a mediating third party whose purpose is to ensure that conversation remains productive, respectful and on-topic. Further, such an individual should have sufficient tact to take part in the conversation and use rhetoric to soften the situation, rather than blunt force.
+
+Indeed, part of the problem is that the job of a moderator is being conflated with that of a bouncer. Perhaps the conversation does reach such a pitch that the moderator has no choice but to call for security, but to _be_ security is a step outside their purported role, and inherently in conflict with it. It's also just in the name:
+
+mod·er·ate  (mŏd′ər-ĭt)
+adj.
+1. Being within reasonable limits; not excessive or extreme
