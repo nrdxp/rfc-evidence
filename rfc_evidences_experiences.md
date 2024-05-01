@@ -1,5 +1,8 @@
 _Part of NixOS [RFC 175](https://github.com/NixOS/rfcs/pull/175)_
 
+> Note: The RFC authors were banned almost immediately after posting it. You can, however, discuss it in this public matrix room:
+> https://matrix.to/#/#rfc-175-all-together:matrix.org
+
 ### Appendix of Evidences and Experiences
 
 This appendix provides a detailed account of some experiences that highlight the dire state of NixOS's community moderation culture, as perceived from the unique perspective of the two authors of this RFC. It offers *concrete reasons*, in the very sense of the aforementioned *Memorandum*, to demonstrate the necessity of adopting such a document. It is important to note, however, that this document is not exhaustive and is limited mostly to the recent past.
