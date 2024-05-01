@@ -23,3 +23,17 @@ I don't really care about "tone" necessarily, although I can't say it's been a v
 > This is not a document intended to resolve conflict. This is a molotov cocktail intended to light-up the community.
 
 That is some pretty nice blame shifting, but in all actuality, the community was already on fire. You know that, you threw some of those molotovs yourself samuel, and now you are trying to put my fingerprints on them to absolve yourself.
+
+#### https://github.com/NixOS/rfcs/pull/175#issuecomment-2078721888
+
+```
+This is tone policing document, seeking to embolden folks who are seemingly, if I as an outsider understand the context, using their technical contributions, to undermine the group consensus on how to behave.
+
+If you're a great contractor, but you take a dump on the home-owners couch, they have the right to both ask you to stop, and throw you out! It doesn't matter how good your work is, how dilligent you are, how much you internally care, or why you think that behaviour is acceptable; folks told you it wasn't, presumably when you start threads questioning diversity and representation, and apparently you get a temporary ban. Which is understandable but very light-touch.
+```
+
+> This is tone policing document, seeking to embolden folks who are seemingly, if I as an outsider understand the context, using their technical contributions, to undermine the group consensus on how to behave.
+
+I am more than happy to speak on my own behalf, and I would ask please refrain from putting words in my mouth regarding intent, especially while I am purposefully muzzled. There is, however, a worrying trend again being demonstrated here, which also demonstrates quite nicely that your claim is false. Nobody is undermining group consensus on how to behave, because such a thing doesn't exist. If you forcibly silence all your detractors, that isn't consensus, that is something else entirely. I'll let you define it. Go ahead.
+
+Also, as a matter of taste, your illustration is both unnecessarily explicit, and also inaccurate (i.e. inflammatory). Disagreeing with you is in no way a parallel of defecation. This is a good example of comments that should probably be moderated, but are not.
